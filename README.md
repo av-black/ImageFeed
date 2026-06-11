@@ -6,7 +6,7 @@ iOS-приложение для просмотра фотографий из Uns
 
 ## Демо
 
-Видео будет добавлено позже.
+https://github.com/user-attachments/assets/ba7ae43f-b5f3-44b9-ae3d-8b51b38e1082
 
 ## Основной функционал
 
@@ -29,24 +29,21 @@ iOS-приложение для просмотра фотографий из Uns
 - iOS 13+
 - Swift 5
 - UIKit
-- Storyboard для контейнера Tab Bar, экранов авторизации, OAuth WebView, ленты и полноэкранного просмотра; splash-экран и профиль сверстаны программно
+- Storyboard и программная верстка
 - Auto Layout
-- MVP для основных модулей с отдельным сервисным слоем
-- UITableView и UIScrollView
-- UITabBarController и UINavigationController
-- Storyboard Segues, модальная навигация и замена корневого контроллера
+- MVP для основных модулей с сервисным слоем
+- UITabBarController, UINavigationController и модальная навигация
 - URLSession и Unsplash REST API
-- OAuth 2.0 и WKWebView
-- NotificationCenter
+- OAuth 2.0 и WebKit
 - Keychain
 - XCTest: unit- и UI-тесты
 - Swift Package Manager
 
 ## Зависимости
 
-- `Kingfisher` 8.5.0 — асинхронная загрузка, обработка и кэширование изображений.
-- `ProgressHUD` 14.1.4 — блокирующий индикатор выполнения сетевых операций.
-- `SwiftKeychainWrapper` 4.0.1 — безопасное хранение OAuth-токена в Keychain.
+- `Kingfisher` — асинхронная загрузка, обработка и кэширование изображений.
+- `ProgressHUD` — блокирующий индикатор выполнения сетевых операций.
+- `SwiftKeychainWrapper` — безопасное хранение OAuth-токена в Keychain.
 
 ## Скриншоты
 
